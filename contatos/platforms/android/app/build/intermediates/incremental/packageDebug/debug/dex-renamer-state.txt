@@ -1,0 +1,4 @@
+#Tue Oct 08 04:44:49 BRT 2019
+base.0=C\:\\Users\\Aluno\\contatos\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Aluno\\contatos\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
